@@ -1,0 +1,10 @@
+/Users/rose/Desktop/DojoAssignments/netCore/ASP.Net/quoting_dojo/bin/Debug/netcoreapp2.0/quoting_dojo.deps.json
+/Users/rose/Desktop/DojoAssignments/netCore/ASP.Net/quoting_dojo/bin/Debug/netcoreapp2.0/quoting_dojo.runtimeconfig.json
+/Users/rose/Desktop/DojoAssignments/netCore/ASP.Net/quoting_dojo/bin/Debug/netcoreapp2.0/quoting_dojo.runtimeconfig.dev.json
+/Users/rose/Desktop/DojoAssignments/netCore/ASP.Net/quoting_dojo/bin/Debug/netcoreapp2.0/quoting_dojo.dll
+/Users/rose/Desktop/DojoAssignments/netCore/ASP.Net/quoting_dojo/bin/Debug/netcoreapp2.0/quoting_dojo.pdb
+/Users/rose/Desktop/DojoAssignments/netCore/ASP.Net/quoting_dojo/obj/Debug/netcoreapp2.0/quoting_dojo.csproj.CoreCompileInputs.cache
+/Users/rose/Desktop/DojoAssignments/netCore/ASP.Net/quoting_dojo/obj/Debug/netcoreapp2.0/quoting_dojo.AssemblyInfoInputs.cache
+/Users/rose/Desktop/DojoAssignments/netCore/ASP.Net/quoting_dojo/obj/Debug/netcoreapp2.0/quoting_dojo.AssemblyInfo.cs
+/Users/rose/Desktop/DojoAssignments/netCore/ASP.Net/quoting_dojo/obj/Debug/netcoreapp2.0/quoting_dojo.dll
+/Users/rose/Desktop/DojoAssignments/netCore/ASP.Net/quoting_dojo/obj/Debug/netcoreapp2.0/quoting_dojo.pdb

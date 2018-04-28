@@ -1,0 +1,13 @@
+@{
+    ViewData["Title"] = "Quotes Page";
+}
+<div class="row">
+    <div class="col-md-3">
+        <h2>Quotes goes here</h2>
+        @foreach (var post in @ViewBag.display)
+        {   
+            <p>@post["quote"]</p>
+            <p>@post["name"] @post["created_at"].ToString("h:mm tt") @post["created_at"].ToString("MMM dd, yyyy")</p>
+        }
+    </div>
+</div>

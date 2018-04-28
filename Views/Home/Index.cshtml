@@ -1,0 +1,61 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+    <div class="col-12">
+        <h1>Welcome to Quoting Dojo</h1>
+    </div>
+</div>
+<form action="quotes" method="post">
+    <div class="row">
+        <div class="col-2">
+            <div class="labels">
+                <div class="row">
+                    <div class="col-12">
+                        <h3>Your Name</h3>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <h3>Your Quotes</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-10">
+            <div class="row">
+                <div class="col-12">
+                    <input type="text" name="inputname">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <textarea name="inputmessage"></textarea>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-6">
+            <button type="submit" class="btn btn-success">Add my quote!</button>
+        </div>
+    </form>
+    <form action="quotes" method="post">
+        <div class="col-6">
+            <button type="submit" class="btn btn-success">Skip to quote!</button>
+        </div>
+    </form>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
